@@ -29,7 +29,7 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 
 import java.util.Stack;
 
-public class demo1 {
+public class BalanceBrackets {
 
             public static void main(String[] args) {
 

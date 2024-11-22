@@ -8,7 +8,7 @@ Piramal Finance
 */
 
 
-public class Demo {
+public class Sort_0_1_timeComplexityOn {
 
 
     public static void main(String[] args) {
